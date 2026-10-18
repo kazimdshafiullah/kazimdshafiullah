@@ -5,7 +5,6 @@ I break things, then write the rules that catch it. Background in network and
 SOC engineering (Wazuh, Suricata, Zeek), now focused on offensive testing and
 turning every attack technique into a working detection.
 
-**Certifications:** [Cert 1](verify-link) · [Cert 2](verify-link)
 **Labs:** [HackTheBox](link) · [TryHackMe](link)
 **Write-ups & blog:** [your-site](link)
 
